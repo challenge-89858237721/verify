@@ -2,6 +2,7 @@
   "name": "react-hcaptcha",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://endrit99.github.io/verify",
   "dependencies": {
     "@hcaptcha/react-hcaptcha": "^1.9.3",
     "@testing-library/jest-dom": "^5.17.0",
